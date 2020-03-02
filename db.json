@@ -268,8 +268,7 @@
       "metric_start": " presentation of things we do\"",
       "metric_target": "%",
       "parent_objective_id": "",
-      "archived": "",
-      "undefined": ""
+      "archived": ""
     },
     {
       "id": "COM0071",
@@ -669,8 +668,7 @@
       "metric_start": " presentation of things we do\"",
       "metric_target": "%",
       "parent_objective_id": "",
-      "archived": "",
-      "undefined": ""
+      "archived": ""
     },
     {
       "id": "MKT0011",
@@ -800,8 +798,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "MKT0030",
-      "undefined": ""
+      "archived": "MKT0030"
     },
     {
       "id": "MKT0032",
@@ -811,8 +808,7 @@
       "metric_start": "Readers",
       "metric_target": "0",
       "parent_objective_id": "50000",
-      "archived": "MKT0030",
-      "undefined": ""
+      "archived": "MKT0030"
     },
     {
       "id": "MKT0033",
@@ -1172,8 +1168,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "HR0040",
-      "undefined": ""
+      "archived": "HR0040"
     },
     {
       "id": "HR0043",
@@ -1333,8 +1328,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "",
-      "undefined": ""
+      "archived": ""
     },
     {
       "id": "PRO0021",
@@ -1424,8 +1418,7 @@
       "metric_start": " design and development\"",
       "metric_target": "%",
       "parent_objective_id": "",
-      "archived": "",
-      "undefined": ""
+      "archived": ""
     },
     {
       "id": "PRO0042",
@@ -1435,8 +1428,7 @@
       "metric_start": " design and development back into product management\"",
       "metric_target": "%",
       "parent_objective_id": "",
-      "archived": "",
-      "undefined": ""
+      "archived": ""
     },
     {
       "id": "PRO0043",
@@ -1546,8 +1538,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "ENG0020",
-      "undefined": ""
+      "archived": "ENG0020"
     },
     {
       "id": "ENG0022",
@@ -1907,8 +1898,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "DSG0010",
-      "undefined": ""
+      "archived": "DSG0010"
     },
     {
       "id": "DSG0014",
@@ -1928,8 +1918,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "DSG0010",
-      "undefined": ""
+      "archived": "DSG0010"
     },
     {
       "id": "DSG0016",
@@ -1989,8 +1978,7 @@
       "metric_start": "Artifacts delivered",
       "metric_target": "0",
       "parent_objective_id": "2",
-      "archived": "DSG0020",
-      "undefined": ""
+      "archived": "DSG0020"
     },
     {
       "id": "DSG0030",
@@ -2050,8 +2038,7 @@
       "metric_start": "%",
       "metric_target": "",
       "parent_objective_id": "",
-      "archived": "DSG0040",
-      "undefined": ""
+      "archived": "DSG0040"
     },
     {
       "id": "DSG0042",
@@ -2061,8 +2048,7 @@
       "metric_start": " and premium resources that make no sense to create ourselves (mockup templates",
       "metric_target": " wireframe kits",
       "parent_objective_id": " stock photos and illustrations)\"",
-      "archived": "%",
-      "undefined": ""
+      "archived": "%"
     },
     {
       "id": "DSG0043",
